@@ -3,7 +3,7 @@
 
 ### 1. 機器學習概論
 #### 從概念上理解機器學習的目的與限制，並導覽機器學習流程
-+ Day1: 資料分析與評估資料<https://github.com/waitingSu/ML100Days/blob/master/homework/Day_001_HW.ipynb>
++ [Day1: 資料分析與評估資料]<https://github.com/waitingSu/ML100Days/blob/master/homework/Day_001_HW.ipynb>
 + Day2: 機器學習概論
 + Day3: 機器學習-流程與步驟
 + Day4: EDA-讀取資料與分析流程
