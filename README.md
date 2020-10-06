@@ -62,4 +62,5 @@
 ### 5. 機器學習調整參數
 #### 了解模型內的參數意義，學習如何根據模型訓練情形來調整參數
 + [Day 47: 超參數調整與優化](https://github.com/waitingSu/ML100Days/blob/master/homework/Day_047_HW.ipynb)
++ [Day 48: Kaggle 競賽平台介紹](https://github.com/waitingSu/ML100Days/blob/master/homework/Day_048_HW.ipynb)
 
