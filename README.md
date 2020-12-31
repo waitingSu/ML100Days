@@ -64,3 +64,37 @@
 + [Day 47: 超參數調整與優化](https://github.com/waitingSu/ML100Days/blob/master/homework/Day_047_HW.ipynb)
 + [Day 48: Kaggle 競賽平台介紹](https://github.com/waitingSu/ML100Days/blob/master/homework/Day_048_HW.ipynb)
 + [Day49：集成方法 : 混合泛化(Blending)](https://github.com/waitingSu/ML100Days/blob/master/homework/Day_049_Blending_HW.ipynb)
++ [Day50：集成方法 : 堆疊泛化(Stacking)](https://github.com/waitingSu/ML100Days/blob/master/homework/Day_050_Stacking_HW.ipynb)
+### Kaggle 第一次期中考
+#### 機器學習成果驗收 考ML與調參相關
++ [Day51-53：Kaggle期中考 考ML與調參相關](https://github.com/waitingSu/ML100Days/blob/master/homework/D51_D53_Midterm.ipynb)
++ [Day51-53：Kaggle期中考 期限前最終分數](https://github.com/waitingSu/ML100Days/blob/master/homework/2020_ML100Marathon_Midtern.PNG)
+### 6. 非監督式機器學習
+#### 利用分群與降維方法探索資料模式
++ [Day54：clustering 1 非監督式機器學習簡介](https://github.com/waitingSu/ML100Days/blob/master/homework/Day_054_HW.ipynb)
++ [Day55：clustering 2 聚類算法](https://github.com/waitingSu/ML100Days/blob/master/homework/Day_055_HW.ipynb)
++ [Day56：K-mean 觀察 : 使用輪廓分析](https://github.com/waitingSu/ML100Days/blob/master/homework/Day_056_kmean_HW.ipynb)
++ [Day57：clustering 3 階層分群算法](https://github.com/waitingSu/ML100Days/blob/master/homework/Day_057_HW.ipynb)
++ [Day58：階層分群法 觀察 : 使用 2D 樣版資料集](https://github.com/waitingSu/ML100Days/blob/master/homework/Day_058_hierarchical_clustering_HW.ipynb)
++ [Day59：dimension reduction 1 降維方法-主成份分析](https://github.com/waitingSu/ML100Days/blob/master/homework/Day_059_HW.ipynb)
++ [Day60：PCA 觀察 : 使用手寫辨識資料集](https://github.com/waitingSu/ML100Days/blob/master/homework/Day_060_PCA_HW.ipynb)
++ [Day62：t-sne 觀察 : 分群與流形還原](https://github.com/waitingSu/ML100Days/blob/master/homework/Day_062_tsne_HW.ipynb)
+### 7. 深度學習理論與實作
+#### 神經網路的運用
++ [Day63：深度學習簡介](https://github.com/waitingSu/ML100Days/blob/master/homework/Day_063_HW.ipynb)
++ [Day64：深度學習體驗 : 模型調整與學習曲線](https://github.com/waitingSu/ML100Days/blob/master/homework/Day_064_HW.ipynb)
++ [Day65：深度學習體驗 : 啟動函數與正規化](https://github.com/waitingSu/ML100Days/blob/master/homework/Day_065_HW.ipynb)
+### 8. 初探深度學習使用Keras
+#### 學習機器學習(ML)與深度學習( DL) 的好幫手
++ [Day66：Keras 安裝與介紹](https://github.com/waitingSu/ML100Days/blob/master/homework/Day66-Keras_Introduction_HW.ipynb)
++ [Day67：Keras Dataset](https://github.com/waitingSu/ML100Days/blob/master/homework/Day67-Keras_Dataset_HW.ipynb)
++ [Day68：Keras Sequential API](https://github.com/waitingSu/ML100Days/blob/master/homework/Day68-Keras_Sequential_Model_HW.ipynb)
++ [Day69：Keras Module API](https://github.com/waitingSu/ML100Days/blob/master/homework/Day69-keras_Module_API_HW.ipynb)
++ [Day70：深度神經網路的基礎知識](https://github.com/waitingSu/ML100Days/blob/master/homework/Day70-Keras_Mnist_MLP_HW.ipynb)
++ [Day71：損失函數](https://github.com/waitingSu/ML100Days/commit/7b478cf42792d77a948244fd5c1c60a538fff5fd)
++ [Day72：啟動函數](https://github.com/waitingSu/ML100Days/commit/f3c2cddeba458651b1e33b0e87e2e0f976e39786)
++ [Day73：梯度下降Gradient Descent](https://github.com/waitingSu/ML100Days/commit/d9a1d3515f5bf050adfd8acc8a86d5facb14dabd)
++ [Day74：Gradient Descent 數學原理](https://github.com/waitingSu/ML100Days/blob/master/homework/Day74-Gradient_Descent_HW.ipynb)
++ [Day75：BackPropagation](https://github.com/waitingSu/ML100Days/blob/master/homework/Day75-Back_Propagation_HW.ipynb)
++ [Day76：優化器optimizers](https://github.com/waitingSu/ML100Days/blob/master/homework/D76-optimizer_HW.ipynb)
++ [Day77：訓練神經網路的細節與技巧 - Validation and overfit](https://github.com/waitingSu/ML100Days/blob/master/homework/Day077_HW.ipynb)
