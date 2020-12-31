@@ -63,4 +63,4 @@
 #### 了解模型內的參數意義，學習如何根據模型訓練情形來調整參數
 + [Day 47: 超參數調整與優化](https://github.com/waitingSu/ML100Days/blob/master/homework/Day_047_HW.ipynb)
 + [Day 48: Kaggle 競賽平台介紹](https://github.com/waitingSu/ML100Days/blob/master/homework/Day_048_HW.ipynb)
-
++ [Day49：集成方法 : 混合泛化(Blending)](https://github.com/waitingSu/ML100Days/blob/master/homework/Day_049_Blending_HW.ipynb)
